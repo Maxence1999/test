@@ -18,6 +18,9 @@ public class exo2 {
 		a = a*a;
 		
 		System.out.print(a);
+
+
+//ceci est un commentaitre ajouté le 24-01-2023
 		
 	}
 
